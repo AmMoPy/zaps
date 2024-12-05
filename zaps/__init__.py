@@ -1,6 +1,6 @@
 # PEP0440 compatible formatted version, see:
 # https://www.python.org/dev/peps/pep-0440/
-__version__ = '1.0' # release markers: “major.minor”
+__version__ = '1.1' # release markers: “major.minor”
 __author__ = 'Amr Muhammad - YT/@AmMoPy'
 
 # module level doc-string
