@@ -3,7 +3,7 @@ Installation
 
 ZAPS is tested and supported on 64-bit systems with:
 
-- Python 3.11 or latter
+- Python 3.9 or latter
 - Debian 12
 - Windows 8.1 or later
 

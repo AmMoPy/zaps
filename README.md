@@ -10,6 +10,11 @@ ZAPS is a lightweight, low-code Python wrapper designed to simplify and accelera
 
 With ZAPS, you can quickly and easily perform a wide range of EDA tasks, without the need for complex code or extensive programming expertise; allowing you to focus on insights and decision-making rather than tedious data manipulation, all for unlocking deeper understanding and actionable insights from your data.
 
+[![!python-versions](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11-blue)](https://pypi.org/project/zaps/)
+[![Pypi](https://img.shields.io/pypi/v/zaps)](https://pypi.org/project/zaps/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?color=orange)](https://github.com/AmMoPy/zaps/blob/main/LICENSE.txt)
+[![Documentation Status](https://readthedocs.org/projects/zaps/badge/?version=stable)](https://zaps.readthedocs.io/)
+
 [![zaps_demo](https://drive.google.com/uc?id=1l6G9bmOe663uvV54bNxBAi54XaoI2lhT)](https://youtu.be/XIAk670WAWM)
 
 ## Table of Contents
@@ -37,7 +42,7 @@ With ZAPS, you can quickly and easily perform a wide range of EDA tasks, without
 
 ZAPS is tested and supported on 64-bit systems with:
 
-- Python 3.11 or latter
+- Python 3.9 or latter
 - Debian 12
 - Windows 8.1 or later
 
@@ -184,7 +189,7 @@ pl.fit_transform(df[feats])
 
 ## Tutorials
 
-[ZAPS Demo](examples/zaps_demo.ipynb)
+[ZAPS in Colab](https://colab.research.google.com/drive/1TWAz1kTRLatXOr1MWVf_oMEdnMXJFNoM?usp=sharing)
 
 ## License
 
